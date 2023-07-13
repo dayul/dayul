@@ -1,4 +1,4 @@
-## Hi! I'm dayul 👋
+<div align=center>## Hi! I'm dayul 👋</div>
 
 <!--
 **dayul/dayul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
