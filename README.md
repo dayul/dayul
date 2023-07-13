@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving)
+
 <div align=center><h2>Hi! I'm dayul 👋</h2></div>
 
 <!--
