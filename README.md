@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyulchoo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyulchoo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue)
 <div align=center><h2>Hi! I'm dayul 👋</h2></div>
 
 <!--
