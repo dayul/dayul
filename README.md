@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayul)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center><h2>Hi! I'm dayul 👋</h2></div>
 
 <!--
