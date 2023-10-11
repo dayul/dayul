@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto) 
 <div align=center><h2>Hi! I'm dayul 👋</h2></div>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayul&theme=vue&show_icons=true)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayul&show_icons=true&theme=vue)
 
 
 <!--
