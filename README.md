@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto) 
 <div align=center><h2>Hi! I'm dayul 👋</h2>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayul)](https://github.com/dayul/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayul&layout=compact)](https://github.com/dayul/github-readme-stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayul&theme=vue&show_icons=true)
 </div>
  
 
