@@ -1,21 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto) 
-<div align=center>
-   <h2>Hi! I'm dayul 👋</h2>  
-   ![dayul's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayul&show_icons=true&theme=vue)
-</div>
+<h1 align="center">Hi 👋, I'm dayul</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/luydauhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luydauhc" height="30" width="40" /></a>
+</p>
 
-   
-<!--
-**dayul/dayul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dayul&show_icons=true&locale=en" alt="dayul" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dayul&label=Profile%20views&color=aad7f3&style=flat" alt="dayul" /> </p>
