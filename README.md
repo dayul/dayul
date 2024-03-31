@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=240&text=Hello!%20I'm%20dayul👋&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=240&text=Hello!%20I'm%20dayul👋&animation=fadeIn&fontColor=ffffff&fontSize=70"/>
     </div>
     <div align= "center">
       <h3>성장하는 새싹 개발자 추다율 입니다! 잘 부탁드립니다! 🙇‍♀️</h3>
@@ -37,3 +37,4 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayul&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> </div> 
     </div>
     
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=150&section=footer&fontSize=90"/>
