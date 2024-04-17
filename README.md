@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=240&text=Hello!%20I'm%20dayul👋&animation=fadeIn&fontColor=ffffff&fontSize=70"/>
     </div>
     <div align= "center">
-      <h3>성장하는 새싹 개발자 추다율 입니다! 잘 부탁드립니다! 🙇‍♀️</h3>
+      <h3>성장하는 새싹 개발자 추다율 입니다! <br> 잘 부탁드립니다! 🙇‍♀️</h3>
       <br>
     </div>
     <div align= "center">
