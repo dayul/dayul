@@ -1,9 +1,11 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=240&text=Hello!%20I'm%20dayul👋&animation=fadeIn&fontColor=ffffff&fontSize=70"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=240&text=Hello!👋&animation=fadeIn&fontColor=ffffff&fontSize=70"/>
     </div>
     <div align= "center">
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayul&count_bg=%2377CC85&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-      <h3>성장하는 새싹 개발자 추다율 입니다! <br> 잘 부탁드립니다! 🙇‍♀️</h3>
+        <a href="https://hits.seeyoufarm.com">
+<!--             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayul&count_bg=%2377CC85&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> -->
+<!--       <h3>성장하는 새싹 개발자 추다율 입니다! <br> 잘 부탁드립니다! 🙇‍♀️</h3> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=30&duration=4500&pause=900&color=466558&center=true&multiline=true&random=false&width=435&lines=%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%83%88%EC%8B%B9+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%B6%94%EB%8B%A4%EC%9C%A8+%EC%9E%85%EB%8B%88%EB%8B%A4!+" alt="Typing SVG" /></a>
       <br>
     </div>
     <div align= "center">
@@ -33,9 +35,11 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div align= "center"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=dayul&theme=vue&show_icons=true"/>
+            <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dayul&theme=vue" alt="GitHub Streak" /></a>
+            <!--  [GitHub Stats]  -->
+<!--             <img src="https://github-readme-stats.vercel.app/api?username=dayul&theme=vue&show_icons=true"/> -->
             &nbsp;
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayul&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> </div> 
+<!--             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayul&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/> </div>  -->
     </div>
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=150&section=footer&fontSize=90"/>
