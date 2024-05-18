@@ -2,6 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=8be49a&height=240&text=Hello!%20I'm%20dayul👋&animation=fadeIn&fontColor=ffffff&fontSize=70"/>
     </div>
     <div align= "center">
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayul&count_bg=%2377CC85&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
       <h3>성장하는 새싹 개발자 추다율 입니다! <br> 잘 부탁드립니다! 🙇‍♀️</h3>
       <br>
     </div>
