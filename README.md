@@ -10,8 +10,16 @@
 
 [![Github](https://www.codenary.co.kr/widget/github/api?username=추다율)](https://www.codenary.co.kr/user-profile/detail/추다율?github_ride=true&utm_source=github)
 
-
 <!--
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dayul&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dayul"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
